@@ -1,6 +1,6 @@
 Name:		texlive-latex2e-help-texinfo-fr
 Version:	64228
-Release:	1
+Release:	2
 Summary:	A French translation of "latex2e-help-texinfo"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex2e-help-texinfo-fr
