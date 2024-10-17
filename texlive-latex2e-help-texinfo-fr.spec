@@ -3,7 +3,7 @@ Version:	64228
 Release:	2
 Summary:	A French translation of "latex2e-help-texinfo"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex2e-help-texinfo-fr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex2e-help-texinfo-fr
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex2e-help-texinfo-fr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex2e-help-texinfo-fr.doc.r%{version}.tar.xz
